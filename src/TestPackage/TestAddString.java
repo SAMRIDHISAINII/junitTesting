@@ -10,7 +10,7 @@ public class TestAddString {
 	public void test() {
 		JUnitFunctions junit = new JUnitFunctions();
 		String result = junit.addstring("Hello", "Sandy");
-		assertEquals("HelloSandy",result);
+		assertEquals("Hello",result);
 	}
 
 }
