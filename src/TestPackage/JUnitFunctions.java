@@ -8,3 +8,4 @@ public class JUnitFunctions {
 		return n1+n2;
 	}
 }
+
